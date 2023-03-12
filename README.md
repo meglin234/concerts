@@ -1,3 +1,4 @@
 # visualizations
 
-US Airport Network - https://meganchurch.github.io/visualizations/network/
+US Airport Network - highlights the betweeness centrality of the Anchorage airport
+https://meganchurch.github.io/visualizations/network/
