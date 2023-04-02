@@ -1,10 +1,10 @@
 # visualizations
 
 
-US Airport Network - Gephi
+<b>US Airport Network<b> - Gephi
 
 Description: 
-Network visualization that highlights the betweeness centrality of the Anchorage airport. 
+Network visualization highlighting the betweeness centrality of the Anchorage airport. 
 
 https://meganchurch.github.io/visualizations/network/
 
