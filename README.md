@@ -7,7 +7,7 @@ Network visualization highlighting the betweeness centrality of the Anchorage ai
 
 https://meganchurch.github.io/visualizations/network/
 
----
+-
 
 <b>Bystander Effect Model</b> - NetLogo (not currently compatible with NetLogo Web, updated version to come)
 
