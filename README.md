@@ -25,7 +25,8 @@ https://meganchurch.github.io/visualizations/FinalModel.html
 
 Website designed to present the data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
 
-https://meganchurch.github.io/dear-data/Data211_website/index.html
+https://meganchurch.github.io/dear-data/DATA211_website/index.html
+
 
 
 ### US Airport Network - Gephi
