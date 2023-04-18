@@ -48,5 +48,6 @@ https://meganchurch.github.io/visualizations/network/
 
 Project goal: compile information from scientific journals on what causes false memories and their impact on trauma, PTSD, and the justice system and reframe it for the general public
 
+https://meganchurch.github.io/visualizations/PSYC311_website/index.html
 
 
