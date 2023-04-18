@@ -47,8 +47,19 @@ https://meganchurch.github.io/visualizations/network/
 
 ### Makinig Psychology Accessible 
 
-Project goal: compile information from scientific journals on what causes false memories and their impact on trauma, PTSD, and the justice system and reframe it for the general public
+Project goal: compile information from scientific journals and present it in a format accessible to the general public
+
+#### Spring 2022 
+
+Topic: false memories and their impact on trauma, PTSD, and the justice system
 
 https://meganchurch.github.io/visualizations/PSYC311_website/index.html
+
+
+#### Fall 2022
+
+Topic: 
+
+https://meganchurch.github.io/visualizations/PSYC411_website/index.html
 
 
