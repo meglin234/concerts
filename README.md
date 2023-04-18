@@ -43,6 +43,7 @@ https://meganchurch.github.io/visualizations/network/
 ### Star Networks 
 (in progress)
 
+Team Role: Leader and Visualization 
 
 
 ### Makinig Psychology Accessible 
@@ -53,12 +54,16 @@ Project goal: compile information from scientific journals and present it in a f
 
 Topic: false memories and their impact on trauma, PTSD, and the justice system
 
+Team Role: Website development and 
+
 https://meganchurch.github.io/visualizations/PSYC311_website/index.html
 
 
 #### Fall 2022
 
-Topic: 
+Topic: college students' use of digital flashcards
+
+Team Role: Website development  
 
 https://meganchurch.github.io/visualizations/PSYC411_website/index.html
 
