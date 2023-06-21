@@ -21,7 +21,7 @@ https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.htm
 
 Agent Based Model that allows users to specify the number of bystanders present. The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files.
 
-https://meganchurch.github.io/visualizations/FinalModel.html
+https://meglin234.github.io/visualizations/FinalModel.html
 
 
 
@@ -29,15 +29,15 @@ https://meganchurch.github.io/visualizations/FinalModel.html
 
 Website designed to present the data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
 
-https://meganchurch.github.io/dear-data/DATA211_website/index.html
+https://meglin234.github.io/dear-data/DATA211_website/index.html
 
 
 
 ### US Airport Network - Gephi
 
-Network visualization highlighting the betweeness centrality of the Anchorage airport. 
+Network visualization highlighting the betweenness centrality of the Anchorage airport. 
 
-https://meganchurch.github.io/visualizations/network/
+https://meglin234.github.io/visualizations/network/
 
 
 
@@ -51,7 +51,7 @@ https://meganchurch.github.io/visualizations/network/
 Team Role: Leader and Visualization 
 
 
-### Makinig Psychology Accessible 
+### Making Psychology Accessible 
 
 Project goal: compile information from scientific journals and present it in a format accessible to the general public
 
@@ -61,15 +61,15 @@ Topic: false memories and their impact on trauma, PTSD, and the justice system
 
 Team Role: Website development and 
 
-https://meganchurch.github.io/visualizations/PSYC311_website/index.html
+https://meglin234.github.io/visualizations/PSYC311_website/index.html
 
 
 #### Fall 2022
 
-Topic: college students' use of digital flashcards
+Topic: college students use of digital flashcards
 
 Team Role: Website development  
 
-https://meganchurch.github.io/visualizations/PSYC411_website/index.html
+https://meglin234.github.io/visualizations/PSYC411_website/index.html
 
 
