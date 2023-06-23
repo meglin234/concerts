@@ -19,7 +19,7 @@ https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.htm
 
 (the file can be downloaded and run in NetLogo desktop)
 
-Agent Based Model that allows users to specify the number of bystanders present. The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files.
+Agent-Based Model that allows users to specify the number of bystanders present. The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files.
 
 https://meglin234.github.io/visualizations/FinalModel.html
 
@@ -27,7 +27,7 @@ https://meglin234.github.io/visualizations/FinalModel.html
 
 ### Dear Data Challenge 
 
-Website designed to present the data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
+Website designed to present data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
 
 https://meglin234.github.io/dear-data/DATA211_website/index.html
 
