@@ -29,7 +29,7 @@ https://meglin234.github.io/visualizations/FinalModel.html
 
 Website designed to present data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
 
-https://meglin234.github.io/dear-data/DATA211_website/index.html
+https://meglin234.github.io/dear-data-challenge/DATA211_website/index.html
 
 
 
