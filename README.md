@@ -3,7 +3,7 @@
 ## INDEPENDENT UNIVERSITY PROJECTS
 
 
-### [Probability Words in Academic Writing](../probability-words)
+### [Probability Words in Academic Writing](../probability-words/README.md)
 
 
 ### The Fourish W's of Megan's Concert History - FlexDashboard
