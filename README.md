@@ -6,13 +6,10 @@
 ### [Probability Words in Academic Writing](https://github.com/meglin234/probability-words)
 
 
-### The Fourish W's of Megan's Concert History - FlexDashboard
-
-https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.html
+### [The Fourish W's of Megan's Concert History](https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.html) - FlexDashboard
 
 
-
-### Bystander Effect Model - NetLogo 
+### [Bystander Effect Model](https://meglin234.github.io/visualizations/FinalModel.html) - NetLogo 
 
 (not currently compatible with NetLogo Web, updated version to come)
 
@@ -20,55 +17,34 @@ https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.htm
 
 Agent-Based Model that allows users to specify the number of bystanders present. The model uses data from violent incidents captured on CCTV in Copenhagen, Denmark, to show what percentage of bystanders intervene, each intervener’s demographic information, and details about the environment. The data is accessed from two CSV files.
 
-https://meglin234.github.io/visualizations/FinalModel.html
 
-
-
-### Dear Data Challenge 
+### [Dear Data Challenge](https://meglin234.github.io/dear-data-challenge/DATA211_website/Index/index.html)
 
 Website designed to present data, visualizations, and conclusions of levels of personal communication to show that we can use data to become more humane in addition to increasing efficiency. (info on the project)
 
-https://meglin234.github.io/dear-data-challenge/DATA211_website/Index/index.html
 
-
-
-### US Airport Network - Gephi
+### [US Airport Network](https://meglin234.github.io/visualizations/network/) - Gephi
 
 Network visualization highlighting the betweenness centrality of the Anchorage airport. 
-
-https://meglin234.github.io/visualizations/network/
-
 
 
 
 
 ## COLLABORATIVE UNIVERSITY PROJECTS
 
-### Star Networks 
-(in progress)
+### [Star Networks](https://github.com/meglin234/star-networks)
 
 Team Role: Leader and Visualization 
 
 
-### Making Psychology Accessible 
+### [Making Psychology Accessible](https://github.com/meglin234/making-psychology-accessible/blob/main/README.md) 
 
-Project goal: compile information from scientific journals and present it in a format accessible to the general public
-
-#### Spring 2022 
-
-Topic: false memories and their impact on trauma, PTSD, and the justice system
-
-Team Role: Website development and 
-
-https://meglin234.github.io/making-psychology-accessible/PSYC311_website/index.html
+Websites presenting scientific studies in a format accessible to the general public
 
 
-#### Fall 2022
+#### [False Memories](https://meglin234.github.io/making-psychology-accessible/PSYC311_website/index.html)
 
-Topic: college students use of digital flashcards
+#### [College Students use of Digital Flashcards](https://meglin234.github.io/making-psychology-accessible/PSYC411_website/index.html)
 
-Team Role: Website development  
-
-https://meglin234.github.io/making-psychology-accessible/PSYC411_website/index.html
 
 
