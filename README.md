@@ -6,10 +6,10 @@
 ### [Probability Words in Academic Writing](https://github.com/meglin234/probability-words)
 
 
-### [The Fourish W's of Megan's Concert History](https://meglin234.github.io/visualizations/concerts-flexdashboard/docs/index.html) - FlexDashboard
+### [The Fourish W's of Megan's Concert History](https://meglin234.github.io/project-portfolio/concerts-flexdashboard/docs/index.html) - FlexDashboard
 
 
-### [Bystander Effect Model](https://meglin234.github.io/visualizations/FinalModel.html) - NetLogo 
+### [Bystander Effect Model](https://meglin234.github.io/bystander-effect-model/FinalModel.html) - NetLogo 
 
 (not currently compatible with NetLogo Web, updated version to come)
 
@@ -41,10 +41,7 @@ Team Role: Leader and Visualization
 
 Websites presenting scientific studies in a format accessible to the general public
 
-
-#### [False Memories](https://meglin234.github.io/making-psychology-accessible/PSYC311_website/index.html)
-
 #### [College Students use of Digital Flashcards](https://meglin234.github.io/making-psychology-accessible/PSYC411_website/index.html)
 
-
+#### [False Memories](https://meglin234.github.io/making-psychology-accessible/PSYC311_website/index.html)
 
